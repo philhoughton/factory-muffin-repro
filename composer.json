@@ -1,0 +1,13 @@
+{
+    "name": "philhoughton/factory-muffin-repo",
+    "require": {
+        "league/factory-muffin-faker": "^2.2",
+        "league/factory-muffin": "^3.2",
+        "doctrine/orm": "^2.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
